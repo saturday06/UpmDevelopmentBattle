@@ -1,0 +1,13 @@
+/.idea/
+/.vscode/
+/.vs/
+/Library/
+/Logs/
+/Temp/
+/UserSettings/
+/obj/
+/*.csproj
+/*.sln
+/.vsconfig
+/UpgradeLog.htm
+.DS_Store
